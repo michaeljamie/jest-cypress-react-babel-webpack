@@ -1,5 +1,5 @@
 <h1 align="center">
-  Jest and Cypress with React, Babel, and Webpack
+  Jest and Cypress with React, Babel, and Webpack (Testing Javascript Course)
 </h1>
 
 <p align="center" style="font-size: 1.2rem;">
